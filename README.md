@@ -1,5 +1,4 @@
 # hello-world
 Tutorial - learning github
 
-Some changes for new features
-Some other changes for new features
+See ReadMe-2
